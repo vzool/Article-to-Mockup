@@ -9,9 +9,10 @@ You've learned a lot about web development so far. I want you to take a moment t
 
 1) This is a good refresh.
 
-2) yes.
+2) yes, adding images to the web page and the whole html structure is logical and easy to pickup.
 
 3) nothing.
 
-4) yes, always.
+4) first, I did things I can do directly to the whole document, then I don't know some tags like "sup".
+So, I search with google "html super text" and I found the answer in some pages.
 
